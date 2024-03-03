@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "webserver": "node ./bin/webserver.js -p 7272 -d ./src/orig --enable_cors"
+    },
+    "devDependencies": {
+        "typescript": "^5.3.3"
+    }
+}
